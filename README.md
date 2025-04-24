@@ -35,24 +35,23 @@ I'm a Computer Science student from PES University, passionate about crafting sc
 - **Frameworks**: Spring Boot, Flask, React, Flutter, Gin, PyTorch, Mediapipe
 - **Databases**: MySQL, MongoDB
 - **Tools**: Docker, GitHub, Kafka, PySpark, Maven, VS Code, IntelliJ
-
 ---
 
 ### 🔨 Projects
 
-#### 🐳 Kubernetes Cluster Simulator  
+#### 🐳 [Kubernetes Cluster Simulator](https://github.com/muniss950/kubernetes-cluster-simulator)
 > Go · Docker · Gin · REST API  
 Simulated a container orchestration system with pod scheduling (First-Fit, Best-Fit, Worst-Fit), live node health checks, and pod rescheduling.
 
-#### 🏏 Cricket Team Selector  
+#### 🏏 [Cricket Team Selector](https://github.com/muniss950/cricket-team-selector)
 > Flask · React.js · MySQL  
 Built a web app for managing teams and tournaments, with user authentication and full REST backend.
 
-#### 🎭 EmoStream  
+#### 🎭 [EmoStream](https://github.com/muniss950/emostream)
 > Kafka · PySpark · Flask  
 Real-time emoji stream processor with pub-sub Kafka pipelines and Spark-based analytics.
 
-#### 🍽️ Online Food App  
+#### 🍽️ [Online Food App](https://github.com/muniss950/online-food-app)
 > Java · Spring Boot · MySQL  
 Complete food delivery backend using Builder, Observer, and Repository design patterns with robust MVC structure.
 
