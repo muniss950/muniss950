@@ -57,18 +57,7 @@ Complete food delivery backend using Builder, Observer, and Repository design pa
 
 ---
 
-### 📜 Certifications
 
-- Flutter App Development – PESU I/O Program  
-  Built cross-platform apps with Dart, APIs, and state management.
-
----
-
-### 🎯 Let's Connect
-
-If you're building something cool with Go, Rust, or distributed systems, let's collaborate!
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muniss950&show_icons=true&theme=radical" />
