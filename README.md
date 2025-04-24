@@ -1,8 +1,5 @@
 <!-- GitHub Profile README -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000" alt="Munis Shafiq" width="120" style="border-radius: 50%"/>
-</p>
 
 <h1 align="center">Hi, I'm Munis Shafiq</h1>
 
