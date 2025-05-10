@@ -9,8 +9,7 @@
 
 <p align="center">
   <a href="mailto:munish3971@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/munis-shafiq">💼 LinkedIn</a> •
-  <a href="https://github.com/muniss950">💻 GitHub</a>
+  <a href="https://linkedin.com/in/munis-shafiq">💼 LinkedIn</a> 
 </p>
 
 ---
