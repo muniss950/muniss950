@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Munis Shafiq</h1>
 
 <p align="center">
-  Backend Developer | Writing code & breaking things (gently)
+   Writing code & breaking things (gently)
 </p>
 
 <p align="center">
