@@ -37,7 +37,7 @@ A platform to create and manage cricket teams, with admin/user roles and match d
 Kafka · PySpark · Flask  
 Emoji frequency tracker built with a streaming pipeline using Kafka and Spark.
 
-#### 🍽️ [Online Food App](https://github.com/muniss950/online-food-app)  
+#### 🍽️ [Online Food App](https://github.com/muniss950/OnlineFoodApp)  
 Java · Spring Boot · MySQL  
 A backend system for food delivery using clean design principles and RESTful APIs.
 
